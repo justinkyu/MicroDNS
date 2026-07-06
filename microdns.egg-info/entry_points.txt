@@ -1,0 +1,2 @@
+[console_scripts]
+microdns = microdns.cli:main
